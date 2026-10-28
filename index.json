@@ -1,15 +1,15 @@
 [
   {
-    "Author": "Local",
-    "Name": "Local",
-    "Punchline": "Local",
-    "Description": "Local",
-    "InternalName": "ZantetsuProbe",
-    "AssemblyVersion": "2.1.4.13",
+    "Author": "",
+    "Name": "Aster",
+    "Punchline": "",
+    "Description": "",
+    "InternalName": "Aster",
+    "AssemblyVersion": "2.1.4.14",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.13/p.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.13/p.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.13/p.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.14/p.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.14/p.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2unforest/cache-7d31/main/2.1.4.14/p.zip"
   }
 ]
