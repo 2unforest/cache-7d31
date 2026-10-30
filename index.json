@@ -5,11 +5,11 @@
     "Punchline": "",
     "Description": "",
     "InternalName": "Aster",
-    "AssemblyVersion": "2.1.4.22",
+    "AssemblyVersion": "2.1.4.23",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2unforest/cache-7d31/9adac4ddc0ad810a74241d2e14681dcd0856235d/p.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2unforest/cache-7d31/9adac4ddc0ad810a74241d2e14681dcd0856235d/p.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2unforest/cache-7d31/9adac4ddc0ad810a74241d2e14681dcd0856235d/p.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2unforest/cache-7d31/6dbb45e14ff899c963dd31db6c1673b1adc4bd5c/p.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2unforest/cache-7d31/6dbb45e14ff899c963dd31db6c1673b1adc4bd5c/p.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2unforest/cache-7d31/6dbb45e14ff899c963dd31db6c1673b1adc4bd5c/p.zip"
   }
 ]
